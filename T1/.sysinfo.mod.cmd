@@ -1,0 +1,1 @@
+savedcmd_/home/max/Escritorio/SO1_2S2024_201902219/T1/sysinfo.mod := printf '%s\n'   sysinfo.o | awk '!x[$$0]++ { print("/home/max/Escritorio/SO1_2S2024_201902219/T1/"$$0) }' > /home/max/Escritorio/SO1_2S2024_201902219/T1/sysinfo.mod

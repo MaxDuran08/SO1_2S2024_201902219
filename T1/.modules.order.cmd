@@ -1,0 +1,1 @@
+savedcmd_/home/max/Escritorio/SO1_2S2024_201902219/T1/modules.order := {   echo /home/max/Escritorio/SO1_2S2024_201902219/T1/sysinfo.o; :; } > /home/max/Escritorio/SO1_2S2024_201902219/T1/modules.order

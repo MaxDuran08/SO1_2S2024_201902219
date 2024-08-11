@@ -1,0 +1,1 @@
+savedcmd_/home/max/Escritorio/SO1_2S2024_201902219/T1/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/max/Escritorio/SO1_2S2024_201902219/T1/Module.symvers -T /home/max/Escritorio/SO1_2S2024_201902219/T1/modules.order -i Module.symvers -e 
